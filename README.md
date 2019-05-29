@@ -8,7 +8,7 @@ The origin of all the database backup files is [AdventureWorks2012](https://gith
 
 - AdventureWorks_for_sqlserver: SQL server 2012 or later
 - AdventureWorks_for_oracle: Oracle 12c or later
-- AdventureWorks_for_sqlanywhere: SQL Anywhere 17
+- AdventureWorks_for_sqlanywhere: SQL Anywhere 17.0.9.4803 or later
 - AdventureWorks_for_postgresql: PostgreSQL 10 or later
 
 ### Steps to restore AdventureWorks_for_SQL Server
